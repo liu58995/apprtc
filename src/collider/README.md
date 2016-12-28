@@ -1,4 +1,4 @@
-# Collider
+G# Collider
 
 A websocket-based signaling server in Go.
 
@@ -23,7 +23,7 @@ A websocket-based signaling server in Go.
 
 5. Install dependencies
 
-        go get collidermain
+        go get collidermain ///need to traverse GFW.  Jianping on 20161228
 
 6. Install `collidermain`
 
@@ -35,8 +35,7 @@ A websocket-based signaling server in Go.
 
 ## Testing
 
-    go test collider
-
+    go test collider   /// need use VPN, blocked by 
 ## Deployment
 These instructions assume you are using Debian 7/8 and Go 1.6.3.
 
